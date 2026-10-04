@@ -4,7 +4,7 @@ A dependency-free **multinomial Naive Bayes** classifier demonstrating Urdu norm
 
 ## Visual overview
 
-![Urdu intent processing and evaluation overview](preview.jpg)
+![Urdu intent processing and evaluation overview](preview-v2.png)
 
 Designed workflow illustration for the runnable Python CLI; **not a graphical application**. Shows normalization, classification and holdout evaluation on synthetic data. The model score is not calibrated confidence, and evaluation is not a research benchmark.
 
